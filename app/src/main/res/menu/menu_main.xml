@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/start"
+        android:icon="@drawable/ic_play"
+        android:title="@string/menu_start"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/scoreboardButton"
+        android:icon="@drawable/ic_score"
+        android:title="@string/menu_start"
+        app:showAsAction="ifRoom" />
+
+</menu>
